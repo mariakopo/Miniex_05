@@ -3,12 +3,12 @@ Electronic literature
 
 https://mariakopo.github.io/Miniex_05/
 
-![Screenshot](https://github.com/mariakopo/Miniex_05/blob/gh-pages/Sk%C3%A6rmbillede%202017-03-12%20kl.%2012.58.43.png)
-
 
 You can use your mousepad to move the lyrics where you want then and if you click you can change the lyrics from the song. The lyrics is random so they come in a different order. 
 
 You can describe my program as a 'lyrics-generator' with a random order of the lyrics from the same song. 
+
+![Screenshot](https://github.com/mariakopo/Miniex_05/blob/gh-pages/Sk%C3%A6rmbillede%202017-03-12%20kl.%2012.58.43.png)
 
 
 

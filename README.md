@@ -15,6 +15,7 @@ I have not succeed in using the Rita-library so therefore there are no functions
      
 
 //Can you describe your experience in working with found text as the source materials?
+
 At first it was very excited when we were going to make a program and find a text that you could decide yourself. Unfortunately the Rita-library did not work for me so that was very disappointing. I do not feel like I have got the full benefits of the miniex. 
 		
 
